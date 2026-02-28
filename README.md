@@ -1,0 +1,1 @@
+C.O.R.E. (Corporate OSINT Risk Engine) is an automated Python tool that calculates a 0-100 corporate risk score. It uses yfinance and BeautifulSoup to scrape financial and legal data, and Hugging Face’s FinBERT (NLP) to analyze news sentiment. This eliminates false positives and condenses hours of manual due diligence into seconds.
